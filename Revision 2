@@ -1,2 +1,3 @@
 git add NomDuFichier.extension = ajout du fichier a l'index git
 git commit -m "texte" = enregistrer le travail effectué jusqu a un moment T et laisser un message indicatif pour s'en rappeler
+git log : permets de verifier l'historique des commits et de recuperer au besoin la SHA
