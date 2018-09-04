@@ -1,0 +1,2 @@
+git clone UrlGithub : cloner le repository complet sur son PC
+git push origin master : envoyer le repository sur Github
